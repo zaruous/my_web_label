@@ -2,6 +2,9 @@
 
 라벨 디자이너 & 출력 API 서버. 드래그앤드롭 캔버스로 라벨 템플릿을 설계하고, REST API로 데이터를 바인딩하여 SVG 벡터 라벨을 생성합니다.
 
+## 미리보기
+<img width="1904" height="896" alt="image" src="https://github.com/user-attachments/assets/4206a3d5-4676-4aa9-a2d2-0f3cdbf57b56" />
+
 ## 스택
 
 | 영역 | 기술 |
