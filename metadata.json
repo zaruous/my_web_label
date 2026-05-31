@@ -1,0 +1,6 @@
+{
+  "name": "Label Designer",
+  "description": "라벨 도형, 선, 텍스트를 드래그 앤 드롭으로 자유롭게 배치하고, 동적 템플릿 변수를 매핑 및 바인딩하여 출력용 API와 인쇄 레이아웃을 제공하는 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
